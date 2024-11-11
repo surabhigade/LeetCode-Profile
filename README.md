@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/surabhigade/LeetCode-Profile/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/surabhigade/LeetCode-Profile/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
