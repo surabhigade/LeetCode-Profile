@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/surabhigade/LeetCode-Profile/tree/master/0125-valid-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/surabhigade/LeetCode-Profile/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/surabhigade/LeetCode-Profile/tree/master/0572-subtree-of-another-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/surabhigade/LeetCode-Profile/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
