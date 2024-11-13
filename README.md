@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/surabhigade/LeetCode-Profile/tree/master/0133-clone-graph) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/surabhigade/LeetCode-Profile/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Sorting
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/surabhigade/LeetCode-Profile/tree/master/0133-clone-graph) |
 | [0572-subtree-of-another-tree](https://github.com/surabhigade/LeetCode-Profile/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -59,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/surabhigade/LeetCode-Profile/tree/master/0125-valid-palindrome) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/surabhigade/LeetCode-Profile/tree/master/0133-clone-graph) |
+## Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/surabhigade/LeetCode-Profile/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
